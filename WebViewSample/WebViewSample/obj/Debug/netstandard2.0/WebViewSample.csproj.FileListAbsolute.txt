@@ -1,0 +1,11 @@
+C:\sampleAzureAuth\WebView\WebViewSample\WebViewSample\bin\Debug\netstandard2.0\WebViewSample.deps.json
+C:\sampleAzureAuth\WebView\WebViewSample\WebViewSample\bin\Debug\netstandard2.0\WebViewSample.dll
+C:\sampleAzureAuth\WebView\WebViewSample\WebViewSample\bin\Debug\netstandard2.0\WebViewSample.pdb
+C:\sampleAzureAuth\WebView\WebViewSample\WebViewSample\obj\Debug\netstandard2.0\WebViewSample.csprojAssemblyReference.cache
+C:\sampleAzureAuth\WebView\WebViewSample\WebViewSample\obj\Debug\netstandard2.0\XAML Implementation\LoadingLabelXaml.xaml.g.cs
+C:\sampleAzureAuth\WebView\WebViewSample\WebViewSample\obj\Debug\netstandard2.0\WebViewSample.csproj.CoreCompileInputs.cache
+C:\sampleAzureAuth\WebView\WebViewSample\WebViewSample\obj\Debug\netstandard2.0\WebViewSample.AssemblyInfoInputs.cache
+C:\sampleAzureAuth\WebView\WebViewSample\WebViewSample\obj\Debug\netstandard2.0\WebViewSample.AssemblyInfo.cs
+C:\sampleAzureAuth\WebView\WebViewSample\WebViewSample\obj\Debug\netstandard2.0\WebViewSample.dll
+C:\sampleAzureAuth\WebView\WebViewSample\WebViewSample\obj\Debug\netstandard2.0\WebViewSample.pdb
+C:\sampleAzureAuth\WebView\WebViewSample\WebViewSample\obj\Debug\netstandard2.0\XamlC.stamp
